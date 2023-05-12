@@ -1,4 +1,4 @@
-from main import Interval
+from Interval import Interval
 import numpy as np
 from math import *
 
